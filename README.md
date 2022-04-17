@@ -22,3 +22,13 @@ Elabore as seguintes etapas:
 
 
 Nesta atividade, você demostrará seu conhecimento sobre a linguagem e recursos do banco de dados no uso dos recursos e linguagem do Apache Spark SQL em um caso de uso com dados reais.
+
+
+## Montando Ambiente 
+
+
+``` bash
+$ docker run -it --rm -p 8888:8888 jupyter/pyspark-notebook
+```
+
+Fonte: https://medium.com/@suci/running-pyspark-on-jupyter-notebook-with-docker-602b18ac4494
