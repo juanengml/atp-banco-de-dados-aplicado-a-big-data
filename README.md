@@ -1,4 +1,8 @@
-# atp-banco-de-dados-aplicado-a-big-data
+# Atividade Pratica de Banco de Dados Aplicado a Big Data 
+
+Aluno: Juan Manoel Marinho Nascimento
+
+
 somativo 2 usando SparkSQL 
 # Importação, mapeamento e consultas sobre dados da loja Sakila
 
