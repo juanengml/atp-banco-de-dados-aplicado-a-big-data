@@ -1,6 +1,6 @@
 # Atividade Pratica de Banco de Dados Aplicado a Big Data 
 
-Aluno: Juan Manoel Marinho Nascimento
+Aluno: Juan Manoel Marinho Nascimento e Gustavo da Silva Rossi
 
 
 somativo 2 usando SparkSQL 
